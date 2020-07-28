@@ -8,7 +8,8 @@ namespace TCPIPClient
     static class Program
     {
         /// <summary>
-        /// 應用程式的主要進入點。
+        /// 作者:林紘宇
+        /// 正在國立高雄科技大學工程科技研究所攻讀博士學位
         /// </summary>
         [STAThread]
         static void Main()
