@@ -8,7 +8,7 @@ namespace TCPIPClient
     static class Program
     {
         /// <summary>
-        /// 作者:林紘宇
+        /// 作者:林紘宇 Hong-Yu,Lin
         /// 正在國立高雄科技大學工程科技研究所攻讀博士學位
         /// </summary>
         [STAThread]
