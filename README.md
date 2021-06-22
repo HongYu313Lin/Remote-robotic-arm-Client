@@ -4,6 +4,7 @@ Remote-robotic-arm-Client
 有對應按鍵的搖桿
 
 Logitech 羅技 F310 GAMEPAD  (背面有X跟D兩個模式可以切換 若沒有對應到按鈕請自行切換)
+
 SONY PS4 DUALSHOCK 4
 
 其他搖桿的對應按鍵請自行修改程式
