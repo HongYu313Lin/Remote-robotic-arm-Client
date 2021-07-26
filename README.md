@@ -1,5 +1,6 @@
 # Remote-robotic-arm-Client
 Remote-robotic-arm-Client
+開啟程式後輸入IP及port. 並將Autojoy打勾了再按下connect即可操作手臂。
 
 有對應按鍵的搖桿
 
